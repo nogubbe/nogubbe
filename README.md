@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[alt text](https://github.com/nogubbe/nogubbe/blob/main/LinkedIn_Banner.png)
+![alt text](https://github.com/nogubbe/nogubbe/blob/main/LinkedIn_Banner.png)
 
 
 <!--
