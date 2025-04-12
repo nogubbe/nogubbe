@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![alt text](https://github.com/[nogubbe]/[nogubbe]/blob/[main]/LinkedIn_Banner.png?raw=true)
+
+
 <!--
 **nogubbe/nogubbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
